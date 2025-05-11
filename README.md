@@ -1,7 +1,7 @@
 
 
 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1OHd6ZmE1dTk4cGNrY20xZWdkY3hkYWZkdXRldWJzNnFlbGpwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jQERULZAJnT4QBNsdt/giphy.webp)
+
 
 
 # 💻 Tech Stack:
